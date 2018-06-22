@@ -1,6 +1,6 @@
-# Welcome to MkDocs
+# Welcome to Explore Docs
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+Untuk mengunjungi website, sliahkan klik [explore-corp.com](http://www.explore-corp.com).
 
 ## Commands
 

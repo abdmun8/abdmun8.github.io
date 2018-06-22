@@ -1,0 +1,21 @@
+site_name: EXPLORE
+pages:
+  - Home: index.md
+  - Website:
+    - Dashboard: website/dashboard.md
+    - Data Article: website/data-article.md 
+    - Gallery: website/gallery.md 
+    - Video: website/video.md 
+    - Page Data: website/page-data.md 
+    - Ads Data: website/ads-data.md 
+    - Comment Data: website/comment-data.md 
+    - CMS Setting: website/cms-setting.md 
+    - Buku Tamu: website/buku-tamu.md 
+  - tawk.to:
+    - Data Article: website/data-article.md 
+  - Email Hosting:
+    - Data Article: website/data-article.md 
+theme: readthedocs
+markdown_extensions:
+    - fontawesome_markdown
+  

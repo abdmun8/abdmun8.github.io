@@ -1,0 +1,109 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Welcome to Explore Docs\n\n\nUntuk mengunjungi website, sliahkan klik \nexplore-corp.com\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#welcome-to-explore-docs", 
+            "text": "Untuk mengunjungi website, sliahkan klik  explore-corp.com .", 
+            "title": "Welcome to Explore Docs"
+        }, 
+        {
+            "location": "/#commands", 
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
+            "title": "Commands"
+        }, 
+        {
+            "location": "/#project-layout", 
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Project layout"
+        }, 
+        {
+            "location": "/website/dashboard/", 
+            "text": "abstulit cauda ecquid? Potest artus umquam, manus cum pressa alveus per cervice\nlatices fuit; per redeat quamquam claudit. In passis neque Proteu, qua in\ninterea exstructos \nexire\n. Suumque Psamathen Amorque matri, tibi quid modo\nanimos neque, \net\n. A vestrae primique.", 
+            "title": "Dashboard"
+        }, 
+        {
+            "location": "/website/data-article/", 
+            "text": "In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\n Article Category\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\n Article\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat \ncum virum\ncertamina\n, palmis \nAmpyciden\n o.", 
+            "title": "Data Article"
+        }, 
+        {
+            "location": "/website/data-article/#article-category", 
+            "text": "In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum", 
+            "title": " Article Category"
+        }, 
+        {
+            "location": "/website/data-article/#article", 
+            "text": "In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum  In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat  cum virum\ncertamina , palmis  Ampyciden  o.", 
+            "title": " Article"
+        }, 
+        {
+            "location": "/website/gallery/", 
+            "text": "In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat \ncum virum\ncertamina\n, palmis \nAmpyciden\n o.", 
+            "title": "Gallery"
+        }, 
+        {
+            "location": "/website/video/", 
+            "text": "In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat \ncum virum\ncertamina\n, palmis \nAmpyciden\n o.", 
+            "title": "Video"
+        }, 
+        {
+            "location": "/website/page-data/", 
+            "text": "In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat \ncum virum\ncertamina\n, palmis \nAmpyciden\n o.", 
+            "title": "Page Data"
+        }, 
+        {
+            "location": "/website/ads-data/", 
+            "text": "In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat \ncum virum\ncertamina\n, palmis \nAmpyciden\n o.", 
+            "title": "Ads Data"
+        }, 
+        {
+            "location": "/website/comment-data/", 
+            "text": "In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat \ncum virum\ncertamina\n, palmis \nAmpyciden\n o.", 
+            "title": "Comment Data"
+        }, 
+        {
+            "location": "/website/cms-setting/", 
+            "text": "In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat \ncum virum\ncertamina\n, palmis \nAmpyciden\n o.", 
+            "title": "CMS Setting"
+        }, 
+        {
+            "location": "/website/buku-tamu/", 
+            "text": "In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat \ncum virum\ncertamina\n, palmis \nAmpyciden\n o.", 
+            "title": "Buku Tamu"
+        }, 
+        {
+            "location": "/website/data-article/", 
+            "text": "In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\n Article Category\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\n Article\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat \ncum virum\ncertamina\n, palmis \nAmpyciden\n o.", 
+            "title": "Data Article"
+        }, 
+        {
+            "location": "/website/data-article/#article-category", 
+            "text": "In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum", 
+            "title": " Article Category"
+        }, 
+        {
+            "location": "/website/data-article/#article", 
+            "text": "In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum  In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat  cum virum\ncertamina , palmis  Ampyciden  o.", 
+            "title": " Article"
+        }, 
+        {
+            "location": "/website/data-article/", 
+            "text": "In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\n Article Category\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\n Article\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat \ncum virum\ncertamina\n, palmis \nAmpyciden\n o.", 
+            "title": "Data Article"
+        }, 
+        {
+            "location": "/website/data-article/#article-category", 
+            "text": "In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum", 
+            "title": " Article Category"
+        }, 
+        {
+            "location": "/website/data-article/#article", 
+            "text": "In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum  In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat  cum virum\ncertamina , palmis  Ampyciden  o.", 
+            "title": " Article"
+        }
+    ]
+}
