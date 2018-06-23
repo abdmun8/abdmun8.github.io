@@ -51,6 +51,11 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>/website/user-guide/</loc>
+     <lastmod>2018-06-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>/website/data-article/</loc>
      <lastmod>2018-06-23</lastmod>
      <changefreq>daily</changefreq>

@@ -2,37 +2,32 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to Explore Docs\n\n\nUntuk mengunjungi website, sliahkan klik \nexplore-corp.com\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "text": "Welcome to Explore Docs\n\n\nhalaman ini adalah halaman utama dokumentasi website, online chat dan email.\nUntuk mengunjungi website, sliahkan klik \nexplore-corp.com \n.\n\n\nNotes\n\n\n\n\nDokumentasi ini dibuat oleh abdul mun'im \nKirim Email\n atau \nWhatsapp\n\n\nAtau hubungi \nAABC Software", 
             "title": "Home"
         }, 
         {
             "location": "/#welcome-to-explore-docs", 
-            "text": "Untuk mengunjungi website, sliahkan klik  explore-corp.com .", 
+            "text": "halaman ini adalah halaman utama dokumentasi website, online chat dan email.\nUntuk mengunjungi website, sliahkan klik  explore-corp.com  .", 
             "title": "Welcome to Explore Docs"
         }, 
         {
-            "location": "/#commands", 
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
-            "title": "Commands"
-        }, 
-        {
-            "location": "/#project-layout", 
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
-            "title": "Project layout"
+            "location": "/#notes", 
+            "text": "Dokumentasi ini dibuat oleh abdul mun'im  Kirim Email  atau  Whatsapp  Atau hubungi  AABC Software", 
+            "title": "Notes"
         }, 
         {
             "location": "/website/dashboard/", 
-            "text": "abstulit cauda ecquid? Potest artus umquam, manus cum pressa alveus per cervice\nlatices fuit; per redeat quamquam claudit. In passis neque Proteu, qua in\ninterea exstructos \nexire\n. Suumque Psamathen Amorque matri, tibi quid modo\nanimos neque, \net\n. A vestrae primique.", 
+            "text": "Dashboard\n\n\n\nDashboard adalah halaman utama admin, sebagai beranda pada saat login berhasil.\nuntuk login admin silahkan klik \ndisini \n\n\n\n\nHalaman Dashboard", 
             "title": "Dashboard"
         }, 
         {
             "location": "/website/data-article/", 
-            "text": "In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\n Article Category\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\n Article\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat \ncum virum\ncertamina\n, palmis \nAmpyciden\n o.", 
+            "text": "Data Article\n\n\n\nMenu \nData Article\n adalah untuk menambahkan semua kategori artikel yang ada, dibedakan berdasarkan jenisnya yaitu sebagai berikut:\n\n\n\n\nEvent \n Domestik\n\n\nEvent \n International\n\n\nEvent \n Wisata Religi\n\n\nEvent \n Haji \n Umroh\n\n\nX-Trip Tour \n X-Trip\n\n\nX-Trip Tour \n Event\n\n\nDocumentation \n Domestik\n\n\nDocumentation \n Internasional\n\n\nDocumentation \n Event\n\n\nPromo Tour \n Domestik\n\n\nPromo Tour \n Internasional\n\n\nPromo Tour \n Event\n\n\n\n\n Article Category\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\n\n\nMenu Navigasi\n\n\n Article\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat \ncum virum\ncertamina\n, palmis \nAmpyciden\n o.", 
             "title": "Data Article"
         }, 
         {
             "location": "/website/data-article/#article-category", 
-            "text": "In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum", 
+            "text": "In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum   Menu Navigasi", 
             "title": " Article Category"
         }, 
         {
@@ -76,13 +71,38 @@
             "title": "Buku Tamu"
         }, 
         {
+            "location": "/website/user-guide/", 
+            "text": "Article Category\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\n Article\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat \ncum virum\ncertamina\n, palmis \nAmpyciden\n o.\n\n\nVoce superi\n\n\nPico Achillem nulla thracius durus iam! Mox \nme odit\n non considerat vatibus\nquid teque letifera quem sorores ut. Fuerunt habet vulnera loqui est, illa\nquoque cvrrvs lacrimabile etiamnum et altera, tempora nulla est iterum fudi\n\nduorum\n. Exsangues \nCytherea\nora\n. \nConantem\n saepe quae;\nspes quidem sanguine discurrunt liquidum virtutem sustineam, verbaque.\n\n\nGeneri admovit erit o medendi omnes pars\n\n\nNon hic amentes moderamine peti induruit auras superbus tantique castra\ncelerique. Litore et, neve mea mediaque, mihi amans rediit. Morte \nnodis\n!\n\n\n\n\nVitalesque hos gnatae\n\n\nCum ille natorum praeceps\n\n\nAlios et pascua tamen dolos et cruore\n\n\nPavore fragmina tremuere lapidumque vidit domus oraque\n\n\nRepetoque et quove\n\n\nCollemque iaculi nec inquit diffudit hominesque manibus\n\n\n\n\nOrbe agmina tecta abis gravis vacantem, fer nisi praesagaque apro cumba odere\npotius meae; blandas paciscitur. Hoc illi Orphei, longa erat tamen Venus\ndiduxit; et namque deterruit.", 
+            "title": "User Guide"
+        }, 
+        {
+            "location": "/website/user-guide/#article-category", 
+            "text": "In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum", 
+            "title": " Article Category"
+        }, 
+        {
+            "location": "/website/user-guide/#article", 
+            "text": "In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum  In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat  cum virum\ncertamina , palmis  Ampyciden  o.", 
+            "title": " Article"
+        }, 
+        {
+            "location": "/website/user-guide/#voce-superi", 
+            "text": "Pico Achillem nulla thracius durus iam! Mox  me odit  non considerat vatibus\nquid teque letifera quem sorores ut. Fuerunt habet vulnera loqui est, illa\nquoque cvrrvs lacrimabile etiamnum et altera, tempora nulla est iterum fudi duorum . Exsangues  Cytherea\nora .  Conantem  saepe quae;\nspes quidem sanguine discurrunt liquidum virtutem sustineam, verbaque.", 
+            "title": "Voce superi"
+        }, 
+        {
+            "location": "/website/user-guide/#generi-admovit-erit-o-medendi-omnes-pars", 
+            "text": "Non hic amentes moderamine peti induruit auras superbus tantique castra\ncelerique. Litore et, neve mea mediaque, mihi amans rediit. Morte  nodis !   Vitalesque hos gnatae  Cum ille natorum praeceps  Alios et pascua tamen dolos et cruore  Pavore fragmina tremuere lapidumque vidit domus oraque  Repetoque et quove  Collemque iaculi nec inquit diffudit hominesque manibus   Orbe agmina tecta abis gravis vacantem, fer nisi praesagaque apro cumba odere\npotius meae; blandas paciscitur. Hoc illi Orphei, longa erat tamen Venus\ndiduxit; et namque deterruit.", 
+            "title": "Generi admovit erit o medendi omnes pars"
+        }, 
+        {
             "location": "/website/data-article/", 
-            "text": "In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\n Article Category\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\n Article\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat \ncum virum\ncertamina\n, palmis \nAmpyciden\n o.", 
+            "text": "Data Article\n\n\n\nMenu \nData Article\n adalah untuk menambahkan semua kategori artikel yang ada, dibedakan berdasarkan jenisnya yaitu sebagai berikut:\n\n\n\n\nEvent \n Domestik\n\n\nEvent \n International\n\n\nEvent \n Wisata Religi\n\n\nEvent \n Haji \n Umroh\n\n\nX-Trip Tour \n X-Trip\n\n\nX-Trip Tour \n Event\n\n\nDocumentation \n Domestik\n\n\nDocumentation \n Internasional\n\n\nDocumentation \n Event\n\n\nPromo Tour \n Domestik\n\n\nPromo Tour \n Internasional\n\n\nPromo Tour \n Event\n\n\n\n\n Article Category\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\n\n\nMenu Navigasi\n\n\n Article\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat \ncum virum\ncertamina\n, palmis \nAmpyciden\n o.", 
             "title": "Data Article"
         }, 
         {
             "location": "/website/data-article/#article-category", 
-            "text": "In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum", 
+            "text": "In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum   Menu Navigasi", 
             "title": " Article Category"
         }, 
         {
@@ -92,12 +112,12 @@
         }, 
         {
             "location": "/website/data-article/", 
-            "text": "In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\n Article Category\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\n Article\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat \ncum virum\ncertamina\n, palmis \nAmpyciden\n o.", 
+            "text": "Data Article\n\n\n\nMenu \nData Article\n adalah untuk menambahkan semua kategori artikel yang ada, dibedakan berdasarkan jenisnya yaitu sebagai berikut:\n\n\n\n\nEvent \n Domestik\n\n\nEvent \n International\n\n\nEvent \n Wisata Religi\n\n\nEvent \n Haji \n Umroh\n\n\nX-Trip Tour \n X-Trip\n\n\nX-Trip Tour \n Event\n\n\nDocumentation \n Domestik\n\n\nDocumentation \n Internasional\n\n\nDocumentation \n Event\n\n\nPromo Tour \n Domestik\n\n\nPromo Tour \n Internasional\n\n\nPromo Tour \n Event\n\n\n\n\n Article Category\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\n\n\nMenu Navigasi\n\n\n Article\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat \ncum virum\ncertamina\n, palmis \nAmpyciden\n o.", 
             "title": "Data Article"
         }, 
         {
             "location": "/website/data-article/#article-category", 
-            "text": "In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum", 
+            "text": "In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum   Menu Navigasi", 
             "title": " Article Category"
         }, 
         {
