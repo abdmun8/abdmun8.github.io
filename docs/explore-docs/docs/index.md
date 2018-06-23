@@ -1,17 +1,13 @@
 # Welcome to Explore Docs
 
-Untuk mengunjungi website, sliahkan klik [explore-corp.com](http://www.explore-corp.com).
+halaman ini adalah halaman utama dokumentasi website, online chat dan email.
+Untuk mengunjungi website, sliahkan klik [explore-corp.com <i class="fa fa-external-link"></i>](http://www.explore-corp.com).
 
-## Commands
+## Notes
+* Dokumentasi ini dibuat oleh abdul mun'im [Kirim Email](mailto:abdmun8@gail.com) atau [Whatsapp](https://wa.me/628996226977?text=Saya%20mau%20bertanya%20tentang%20dokumentasi%20Explore)
+* Atau hubungi [AABC Software](http://www.aabc-software.com)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+<!-- First Header | Second Header | Third Header
+------------ | ------------- | ------------
+Content Cell | Content Cell  | Content Cell
+Content Cell | Content Cell  | Content Cell -->

@@ -1,5 +1,10 @@
-eeeeeee:m markdownum ex adest genetrice carinas quondam Stheneleia crescere cuncta,
-abstulit cauda ecquid? Potest artus umquam, manus cum pressa alveus per cervice
-latices fuit; per redeat quamquam claudit. In passis neque Proteu, qua in
-interea exstructos *exire*. Suumque Psamathen Amorque matri, tibi quid modo
-animos neque, **et**. A vestrae primique.
+<h1><i class="fa fa-dashboard"></i> Dashboard</h1>
+
+Dashboard adalah halaman utama admin, sebagai beranda pada saat login berhasil.
+untuk login admin silahkan klik [disini <i class="fa fa-external-link"></i>](http://explore-corp.com/admin)
+
+
+
+![Dashboard](../img/dashboard.jpg)
+
+*Halaman Dashboard*
