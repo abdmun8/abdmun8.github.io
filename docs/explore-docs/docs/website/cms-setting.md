@@ -1,10 +1,15 @@
-In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum
-amplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui
-tibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae
-pondere; rapta ab fictis faciat [cum virum
+<h1><i class="fa fa-gears"></i> CMS Setting</h1>
 
-In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum
-amplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui
-tibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae
-pondere; rapta ab fictis faciat [cum virum
-certamina](http://www.fugatisporrigit.io/), palmis *Ampyciden* o.
+Menu `CMS Setting` digunakan untuk mengelola data kontak seperti alamat email, facebook, twitter dsb.
+
+		Note:
+		Supaya data setting tampil pada web pastikan status is active nya menjadi Yes
+
+
+![CMS Setting](../img/cms-setting.jpg)
+
+*Tampilan menu CMS Setting*
+
+![setting](../img/setting.jpg)
+
+*Tampilan setting pada website*

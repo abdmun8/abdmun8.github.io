@@ -1,6 +1,6 @@
 <h1><i class="fa fa-file-text"></i> Data Article</h1>
 
-Menu **Data Article** adalah untuk menambahkan semua kategori artikel yang ada, dibedakan berdasarkan jenisnya yaitu sebagai berikut:
+Menu `Data Article` adalah untuk menambahkan semua kategori artikel yang ada, dibedakan berdasarkan jenisnya yaitu sebagai berikut:
 
 - Event > Domestik
 - Event > International
@@ -17,24 +17,39 @@ Menu **Data Article** adalah untuk menambahkan semua kategori artikel yang ada, 
 
 ## <i class="fa fa-tags"></i> Article Category
 
-In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum
-amplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui
-tibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae
-pondere; rapta ab fictis faciat [cum virum
+Tab `Article Category` berfungsi untuk mengelola data artikel kategori yang ada pada website, article category ini tidak boleh dirubah.
 
-![Dashboard](../img/navigasi.jpg)
+![Article Category](../img/article-category.jpg)
 
-*Menu Navigasi*
+*Tampilan Article category*
 
 ## <i class="fa fa-book"></i> Article
 
-In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum
-amplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui
-tibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae
-pondere; rapta ab fictis faciat [cum virum
+Tab `Article` berfungsi untuk mengelola data artikel, untuk mengelola data pastikan anda memilih salah satu Article Category, kemudian klik tab article.
 
-In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum
-amplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui
-tibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae
-pondere; rapta ab fictis faciat [cum virum
-certamina](http://www.fugatisporrigit.io/), palmis *Ampyciden* o.
+![Article](../img/article.jpg)
+
+*Tampilan Article*
+
+## Tampilan Pada Website
+
+Article yang telah dibuat pada menu data article akan ditampilkan berdasarkan tiap category pada menu website, article yang paling baru akan tampil pada halaman utama website, supaya article bisa tampil pastikan status article tersebut sudah **publish**.
+
+		Note: 
+		Pada saat membuat article jadwal event pastikan tanggalnya diisi!
+		untuk memasukan link video dari youtube, yang diinput hanya id nya saja, 
+		contoh link: https://www.youtube.com/watch?v=2etgttliU_A 
+		maka yang diambil hanya 2etgttliU_A (setelah tanda =)
+
+
+![Article Website](../img/article-web.jpg)
+
+*Tampilan Article pada halaman utama*
+
+![Article Single](../img/article-single.jpg)
+
+*Tampilan Article pada detail article*
+
+![jadwal Event](../img/jadwal-event.jpg)
+
+*Tampilan Article pada Jadwal Event*

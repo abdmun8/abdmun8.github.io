@@ -11,11 +11,8 @@ pages:
     - Comment Data: website/comment-data.md 
     - CMS Setting: website/cms-setting.md 
     - Buku Tamu: website/buku-tamu.md 
-    - User Guide: website/user-guide.md 
-  - tawk.to:
-    - Data Article: website/data-article.md 
-  - Email Hosting:
-    - Data Article: website/data-article.md 
+  - Tawk To: tawk-to.md 
+  - Email Hosting: email.md 
 theme: readthedocs
 markdown_extensions:
     - fontawesome_markdown

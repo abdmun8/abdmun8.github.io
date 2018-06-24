@@ -1,10 +1,12 @@
-In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum
-amplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui
-tibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae
-pondere; rapta ab fictis faciat [cum virum
+<h1><i class="fa fa-file"></i> Page Data</h1>
 
-In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum
-amplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui
-tibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae
-pondere; rapta ab fictis faciat [cum virum
-certamina](http://www.fugatisporrigit.io/), palmis *Ampyciden* o.
+Menu `Page Data` digunakan untuk mengelola data statis perusahaan seperti visi misi, company profile, background dsb. Data yang ditambahkan pada menu ini akan tampil di halaman `About Us` pada website.
+
+
+![Page data](../img/page-data.jpg)
+
+*Tampilan menu page data*
+
+![About Us](../img/about-us.jpg)
+
+*Tampilan menu About Us*

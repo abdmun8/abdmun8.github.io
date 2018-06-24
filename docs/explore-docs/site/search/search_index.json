@@ -2,128 +2,168 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to Explore Docs\n\n\nhalaman ini adalah halaman utama dokumentasi website, online chat dan email.\nUntuk mengunjungi website, sliahkan klik \nexplore-corp.com \n.\n\n\nNotes\n\n\n\n\nDokumentasi ini dibuat oleh abdul mun'im \nKirim Email\n atau \nWhatsapp\n\n\nAtau hubungi \nAABC Software", 
+            "text": "Welcome to Explore Docs\n\n\nHalaman ini adalah halaman utama dokumentasi website, online chat dan email.\nUntuk mengunjungi website, sliahkan klik \nexplore-corp.com \n.\n\n\nNotes\n\n\n\n\nDokumentasi ini dibuat oleh abdul mun'im (\nKirim Email\n atau \nWhatsapp\n)\n\n\nAtau hubungi \nAABC Software", 
             "title": "Home"
         }, 
         {
             "location": "/#welcome-to-explore-docs", 
-            "text": "halaman ini adalah halaman utama dokumentasi website, online chat dan email.\nUntuk mengunjungi website, sliahkan klik  explore-corp.com  .", 
+            "text": "Halaman ini adalah halaman utama dokumentasi website, online chat dan email.\nUntuk mengunjungi website, sliahkan klik  explore-corp.com  .", 
             "title": "Welcome to Explore Docs"
         }, 
         {
             "location": "/#notes", 
-            "text": "Dokumentasi ini dibuat oleh abdul mun'im  Kirim Email  atau  Whatsapp  Atau hubungi  AABC Software", 
+            "text": "Dokumentasi ini dibuat oleh abdul mun'im ( Kirim Email  atau  Whatsapp )  Atau hubungi  AABC Software", 
             "title": "Notes"
         }, 
         {
             "location": "/website/dashboard/", 
-            "text": "Dashboard\n\n\n\nDashboard adalah halaman utama admin, sebagai beranda pada saat login berhasil.\nuntuk login admin silahkan klik \ndisini \n\n\n\n\nHalaman Dashboard", 
+            "text": "Dashboard\n\n\n\nDashboard adalah halaman utama admin, sebagai beranda pada saat login berhasil.\nuntuk login admin silahkan klik \ndisini \n\n\n\n\nTampilan Dashboard\n\n\n Toolbar Menu\n\n\nToolbar adalah button yang digunakan untuk memberikan aksi pada record.\nsemua menu pada website ini menggunakan toolbar yang sama seperti gambar dibawah ini\n\n\n\n\nTampilan Toolbar\n\n\n1. Copy Record \n\n\nTombol \nCopy Record\n Digunakan untuk menduplikasi data ke form input. \nUntuk menggunakan pilih satu record dan klik tombol copy record.\nmaka data pada record yang akan dicopy secara otomatis mengisi form input.\n\n\n\n\nContoh Copy Record\n\n\n2. Undo \n\n\nTombol \nUndo\n digunakan untuk membatalkan perintah yang sudah dilakukan tetapi sebelum di save, seperti copy record atau Tambah Data.\n\n\n3. New \n\n\nTombol \nNew\n Digunakan untuk menambahkan data baru.\n\n\n4. Trash \n\n\nTombol \nDelete\n digunakan untuk menghapus data.\nUntuk menghapus data, pilih salah satu record kemudian klik tombol Delete.\n\n\n5. Save Changes \n\n\nTombol \nSave Changes\n digunakan untuk menyimpan perubahan yang telah dibuat, baik itu record baru atau edit record.\nPada saat membuat data baru tombol save changes akan otomatis aktif, begitu juga pada saat melakukan perubahan data.\n\n\n    Untuk mengedit data, double click pada data yang akan diedit.\n    Tampilan akan berubah dari grid view ke form view (dibahas dibawah).\n\n\n\n6. refresh \n\n\nTombol \nRefresh\n digunakan untuk memuat ulang data yang ada (reload).\n\n\n7. Print \n\n\nTombol \nPrint\n digunakan untuk mencetak dokumen, pada website ini tombol tidak digunakan.\n\n\n8. First Record \n\n\nTombol \nFirst Record\n digunakan untuk navigasi ke record pertama.\n\n\n8. Previous Record \n\n\nTombol \nPrevious Record\n digunakan untuk navigasi ke record sebelumnya dari recird yang dipilih.\n\n\n9. Next Record \n\n\nTombol \nNext Record\n digunakan untuk navigasi ke record selanjutnya dari recird yang dipilih.\n\n\n10. last Record \n\n\nTombol \nLast Record\n digunakan untuk navigasi ke record Terakhir.\n\n\n11. Form View \n\n\nTombol \nForm View\n digunakan merubah tampilan ke tampilan form (pada saat tampilan berada pada tampilan grid).\n\n\n\n\nContoh tampilan Grid View\n\n\n11. Grid View \n\n\nTombol \nGrid View\n digunakan merubah tampilan ke tampilan form (pada saat tampilan berada pada tampilan grid).\n\n\n\n\nContoh tampilan Form View", 
             "title": "Dashboard"
         }, 
         {
+            "location": "/website/dashboard/#toolbar-menu", 
+            "text": "Toolbar adalah button yang digunakan untuk memberikan aksi pada record.\nsemua menu pada website ini menggunakan toolbar yang sama seperti gambar dibawah ini   Tampilan Toolbar", 
+            "title": " Toolbar Menu"
+        }, 
+        {
+            "location": "/website/dashboard/#1-copy-record", 
+            "text": "Tombol  Copy Record  Digunakan untuk menduplikasi data ke form input. \nUntuk menggunakan pilih satu record dan klik tombol copy record.\nmaka data pada record yang akan dicopy secara otomatis mengisi form input.   Contoh Copy Record", 
+            "title": "1. Copy Record "
+        }, 
+        {
+            "location": "/website/dashboard/#2-undo", 
+            "text": "Tombol  Undo  digunakan untuk membatalkan perintah yang sudah dilakukan tetapi sebelum di save, seperti copy record atau Tambah Data.", 
+            "title": "2. Undo "
+        }, 
+        {
+            "location": "/website/dashboard/#3-new", 
+            "text": "Tombol  New  Digunakan untuk menambahkan data baru.", 
+            "title": "3. New "
+        }, 
+        {
+            "location": "/website/dashboard/#4-trash", 
+            "text": "Tombol  Delete  digunakan untuk menghapus data.\nUntuk menghapus data, pilih salah satu record kemudian klik tombol Delete.", 
+            "title": "4. Trash "
+        }, 
+        {
+            "location": "/website/dashboard/#5-save-changes", 
+            "text": "Tombol  Save Changes  digunakan untuk menyimpan perubahan yang telah dibuat, baik itu record baru atau edit record.\nPada saat membuat data baru tombol save changes akan otomatis aktif, begitu juga pada saat melakukan perubahan data.      Untuk mengedit data, double click pada data yang akan diedit.\n    Tampilan akan berubah dari grid view ke form view (dibahas dibawah).", 
+            "title": "5. Save Changes "
+        }, 
+        {
+            "location": "/website/dashboard/#6-refresh", 
+            "text": "Tombol  Refresh  digunakan untuk memuat ulang data yang ada (reload).", 
+            "title": "6. refresh "
+        }, 
+        {
+            "location": "/website/dashboard/#7-print", 
+            "text": "Tombol  Print  digunakan untuk mencetak dokumen, pada website ini tombol tidak digunakan.", 
+            "title": "7. Print "
+        }, 
+        {
+            "location": "/website/dashboard/#8-first-record", 
+            "text": "Tombol  First Record  digunakan untuk navigasi ke record pertama.", 
+            "title": "8. First Record "
+        }, 
+        {
+            "location": "/website/dashboard/#8-previous-record", 
+            "text": "Tombol  Previous Record  digunakan untuk navigasi ke record sebelumnya dari recird yang dipilih.", 
+            "title": "8. Previous Record "
+        }, 
+        {
+            "location": "/website/dashboard/#9-next-record", 
+            "text": "Tombol  Next Record  digunakan untuk navigasi ke record selanjutnya dari recird yang dipilih.", 
+            "title": "9. Next Record "
+        }, 
+        {
+            "location": "/website/dashboard/#10-last-record", 
+            "text": "Tombol  Last Record  digunakan untuk navigasi ke record Terakhir.", 
+            "title": "10. last Record "
+        }, 
+        {
+            "location": "/website/dashboard/#11-form-view", 
+            "text": "Tombol  Form View  digunakan merubah tampilan ke tampilan form (pada saat tampilan berada pada tampilan grid).   Contoh tampilan Grid View", 
+            "title": "11. Form View "
+        }, 
+        {
+            "location": "/website/dashboard/#11-grid-view", 
+            "text": "Tombol  Grid View  digunakan merubah tampilan ke tampilan form (pada saat tampilan berada pada tampilan grid).   Contoh tampilan Form View", 
+            "title": "11. Grid View "
+        }, 
+        {
             "location": "/website/data-article/", 
-            "text": "Data Article\n\n\n\nMenu \nData Article\n adalah untuk menambahkan semua kategori artikel yang ada, dibedakan berdasarkan jenisnya yaitu sebagai berikut:\n\n\n\n\nEvent \n Domestik\n\n\nEvent \n International\n\n\nEvent \n Wisata Religi\n\n\nEvent \n Haji \n Umroh\n\n\nX-Trip Tour \n X-Trip\n\n\nX-Trip Tour \n Event\n\n\nDocumentation \n Domestik\n\n\nDocumentation \n Internasional\n\n\nDocumentation \n Event\n\n\nPromo Tour \n Domestik\n\n\nPromo Tour \n Internasional\n\n\nPromo Tour \n Event\n\n\n\n\n Article Category\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\n\n\nMenu Navigasi\n\n\n Article\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat \ncum virum\ncertamina\n, palmis \nAmpyciden\n o.", 
+            "text": "Data Article\n\n\n\nMenu \nData Article\n adalah untuk menambahkan semua kategori artikel yang ada, dibedakan berdasarkan jenisnya yaitu sebagai berikut:\n\n\n\n\nEvent \n Domestik\n\n\nEvent \n International\n\n\nEvent \n Wisata Religi\n\n\nEvent \n Haji \n Umroh\n\n\nX-Trip Tour \n X-Trip\n\n\nX-Trip Tour \n Event\n\n\nDocumentation \n Domestik\n\n\nDocumentation \n Internasional\n\n\nDocumentation \n Event\n\n\nPromo Tour \n Domestik\n\n\nPromo Tour \n Internasional\n\n\nPromo Tour \n Event\n\n\n\n\n Article Category\n\n\nTab \nArticle Category\n berfungsi untuk mengelola data artikel kategori yang ada pada website, article category ini tidak boleh dirubah.\n\n\n\n\nTampilan Article category\n\n\n Article\n\n\nTab \nArticle\n berfungsi untuk mengelola data artikel, untuk mengelola data pastikan anda memilih salah satu Article Category, kemudian klik tab article.\n\n\n\n\nTampilan Article\n\n\nTampilan Pada Website\n\n\nArticle yang telah dibuat pada menu data article akan ditampilkan berdasarkan tiap category pada menu website, article yang paling baru akan tampil pada halaman utama website, supaya article bisa tampil pastikan status article tersebut sudah \npublish\n.\n\n\n    Note: \n    Pada saat membuat article jadwal event pastikan tanggalnya diisi!\n    untuk memasukan link video dari youtube, yang diinput hanya id nya saja, \n    contoh link: https://www.youtube.com/watch?v=2etgttliU_A \n    maka yang diambil hanya 2etgttliU_A (setelah tanda =)\n\n\n\n\n\nTampilan Article pada halaman utama\n\n\n\n\nTampilan Article pada detail article\n\n\n\n\nTampilan Article pada Jadwal Event", 
             "title": "Data Article"
         }, 
         {
             "location": "/website/data-article/#article-category", 
-            "text": "In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum   Menu Navigasi", 
+            "text": "Tab  Article Category  berfungsi untuk mengelola data artikel kategori yang ada pada website, article category ini tidak boleh dirubah.   Tampilan Article category", 
             "title": " Article Category"
         }, 
         {
             "location": "/website/data-article/#article", 
-            "text": "In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum  In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat  cum virum\ncertamina , palmis  Ampyciden  o.", 
+            "text": "Tab  Article  berfungsi untuk mengelola data artikel, untuk mengelola data pastikan anda memilih salah satu Article Category, kemudian klik tab article.   Tampilan Article", 
             "title": " Article"
         }, 
         {
+            "location": "/website/data-article/#tampilan-pada-website", 
+            "text": "Article yang telah dibuat pada menu data article akan ditampilkan berdasarkan tiap category pada menu website, article yang paling baru akan tampil pada halaman utama website, supaya article bisa tampil pastikan status article tersebut sudah  publish .      Note: \n    Pada saat membuat article jadwal event pastikan tanggalnya diisi!\n    untuk memasukan link video dari youtube, yang diinput hanya id nya saja, \n    contoh link: https://www.youtube.com/watch?v=2etgttliU_A \n    maka yang diambil hanya 2etgttliU_A (setelah tanda =)   Tampilan Article pada halaman utama   Tampilan Article pada detail article   Tampilan Article pada Jadwal Event", 
+            "title": "Tampilan Pada Website"
+        }, 
+        {
             "location": "/website/gallery/", 
-            "text": "In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat \ncum virum\ncertamina\n, palmis \nAmpyciden\n o.", 
+            "text": "Gallery\n\n\n\nMenu \nGallery\n digunakan untuk mengelola gambar yang ada pada menu gallery website, gambar yang ada pada menu gallery website tidak semua berasal dari menu gallery, tetapi ada juga gambar dari article, jika ada gambar yang tidak ada pada menu gallery, berarti gambar tersebut berasal dari article yag sudah publish.\n\n\nPada website gambar akan ditampilkan berdasarkan kategori gambar yang dipilihm kategorynya adalah sebagai berikut:\n\n\n\n\nEvent\n Untuk gambar event\n\n\nX-Trip Tour\n Untuk gambar X-Trip Tour\n\n\nActivity\n Untuk gambar Activity (Behind The Scene)\nNote:\nPada saat mengupload gambar pastikan ukuran gambar tidak lebih besar dari 2MB!\nGambar terbaru akan tampil di halaman awal website\n\n\n\n\n\n\n\n\n\nTampilan menu galery\n\n\n\n\nTampilan menu galery website\n\n\n\n\nTampilan galery pada homepage website", 
             "title": "Gallery"
         }, 
         {
             "location": "/website/video/", 
-            "text": "In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat \ncum virum\ncertamina\n, palmis \nAmpyciden\n o.", 
+            "text": "Video\n\n\n\nMenu \nVideo\n digunakan untuk mengelola video yang ada pada menu video website, video yang ada pada menu video website tidak semua berasal dari menu video, tetapi ada juga yang dari article, jika ada video yang tidak ada pada menu video, berarti video tersebut berasal dari article yag sudah publish.\n\n\nPada website video akan ditampilkan berdasarkan kategori video yang dipilihm kategorynya adalah sebagai berikut:\n\n\n\n\nEvent\n Untuk video event\n\n\nX-Trip Tour\n Untuk video X-Trip Tour\n\n\nActivity\n Untuk video Activity (Behind The Scene)\nNote: \nVideo terbaru akan tampil di halaman awal website\nuntuk memasukan link video dari youtube, yang diinput hanya id nya saja, \ncontoh link: https://www.youtube.com/watch?v=2etgttliU_A \nmaka yang diambil hanya 2etgttliU_A (setelah tanda =)\n\n\n\n\n\n\n\n\n\nTampilan menu video\n\n\n\n\nTampilan menu video website\n\n\n\n\nTampilan video pada homepage website", 
             "title": "Video"
         }, 
         {
             "location": "/website/page-data/", 
-            "text": "In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat \ncum virum\ncertamina\n, palmis \nAmpyciden\n o.", 
+            "text": "Page Data\n\n\n\nMenu \nPage Data\n digunakan untuk mengelola data statis perusahaan seperti visi misi, company profile, background dsb. Data yang ditambahkan pada menu ini akan tampil di halaman \nAbout Us\n pada website.\n\n\n\n\nTampilan menu page data\n\n\n\n\nTampilan menu About Us", 
             "title": "Page Data"
         }, 
         {
             "location": "/website/ads-data/", 
-            "text": "In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat \ncum virum\ncertamina\n, palmis \nAmpyciden\n o.", 
+            "text": "Ads Data\n\n\n\nMenu \nAds Data\n digunakan untuk mengelola data sponsor website, sponsor ini akan tampil pada setiap halaman website.\n\n\n\n\nTampilan menu ads data\n\n\n\n\nTampilan Sponsor", 
             "title": "Ads Data"
         }, 
         {
             "location": "/website/comment-data/", 
-            "text": "In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat \ncum virum\ncertamina\n, palmis \nAmpyciden\n o.", 
+            "text": "Comment Data\n\n\n\nMenu \nComment Data\n digunakan untuk mengelola komentar yang ada pada artikel.\n\n\n    Note:\n    Untuk menampilkan komentar, pastikan status komentar sudah dirubah menjadi publish!\n    Pada saat ada yang memasukan komentar pada website, maka program secara otomatis akan mengirimkan email pemberitahuan ke alamat markom.explore@gmail.com.\n\n\n\n\n\nTampilan menu comment data\n\n\n\n\nTampilan Komentar pada website", 
             "title": "Comment Data"
         }, 
         {
             "location": "/website/cms-setting/", 
-            "text": "In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat \ncum virum\ncertamina\n, palmis \nAmpyciden\n o.", 
+            "text": "CMS Setting\n\n\n\nMenu \nCMS Setting\n digunakan untuk mengelola data kontak seperti alamat email, facebook, twitter dsb.\n\n\n    Note:\n    Supaya data setting tampil pada web pastikan status is active nya menjadi Yes\n\n\n\n\n\nTampilan menu CMS Setting\n\n\n\n\nTampilan setting pada website", 
             "title": "CMS Setting"
         }, 
         {
             "location": "/website/buku-tamu/", 
-            "text": "In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat \ncum virum\ncertamina\n, palmis \nAmpyciden\n o.", 
+            "text": "Buku Tamu\n\n\n\nMenu \nBuku Tamu\n menampung kritik, saran, atau pesan yang diberikan oleh pengnjung website data buku tamu tidak ditampilkan pada website, tetapi hanya disimpan pada menu Buku Tamu admin, form buku tamu ada pada menu \nContact Us\n.\n\n\n\n\nTampilan menu buku tamu\n\n\n\n\nTampilan form buku tamu", 
             "title": "Buku Tamu"
         }, 
         {
-            "location": "/website/user-guide/", 
-            "text": "Article Category\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\n Article\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat \ncum virum\ncertamina\n, palmis \nAmpyciden\n o.\n\n\nVoce superi\n\n\nPico Achillem nulla thracius durus iam! Mox \nme odit\n non considerat vatibus\nquid teque letifera quem sorores ut. Fuerunt habet vulnera loqui est, illa\nquoque cvrrvs lacrimabile etiamnum et altera, tempora nulla est iterum fudi\n\nduorum\n. Exsangues \nCytherea\nora\n. \nConantem\n saepe quae;\nspes quidem sanguine discurrunt liquidum virtutem sustineam, verbaque.\n\n\nGeneri admovit erit o medendi omnes pars\n\n\nNon hic amentes moderamine peti induruit auras superbus tantique castra\ncelerique. Litore et, neve mea mediaque, mihi amans rediit. Morte \nnodis\n!\n\n\n\n\nVitalesque hos gnatae\n\n\nCum ille natorum praeceps\n\n\nAlios et pascua tamen dolos et cruore\n\n\nPavore fragmina tremuere lapidumque vidit domus oraque\n\n\nRepetoque et quove\n\n\nCollemque iaculi nec inquit diffudit hominesque manibus\n\n\n\n\nOrbe agmina tecta abis gravis vacantem, fer nisi praesagaque apro cumba odere\npotius meae; blandas paciscitur. Hoc illi Orphei, longa erat tamen Venus\ndiduxit; et namque deterruit.", 
-            "title": "User Guide"
+            "location": "/tawk-to/", 
+            "text": "Apa Itu Tawk.to\n\n\nTawk to adalah aplikasi pihak ketiga yang digunakan untuk keperluan online chat. untuk login bisa ke alamat \ntawk.to\n\n\n    Note:\n    Email yang didaftarkan pada tawk.to adalah markom.explore@gmail.com\n    Pastikan anda login ke akun tawk to supaya status pada online chat menjadi online!\n    Pada saat online dan ada pengunjung yang melakukan chatting maka akan diberitahukan kepada agent, agent harus join untuk bisa chat dengan pengunjung tsb.\n    Pada saat offline dan jika ada pengunjung yang melakukan chatting, maka isi chat akan dikirimkan ke email yang terdaftar (saat ini markom.explore@gmail.com)\n\n\n\n\n\nForm chat pada website\n\n\n\n\nHalaman Login tawk.to\n\n\n\n\nhalaman Utama tawk.to", 
+            "title": "Tawk To"
         }, 
         {
-            "location": "/website/user-guide/#article-category", 
-            "text": "In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum", 
-            "title": " Article Category"
+            "location": "/tawk-to/#apa-itu-tawkto", 
+            "text": "", 
+            "title": " Apa Itu Tawk.to"
         }, 
         {
-            "location": "/website/user-guide/#article", 
-            "text": "In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum  In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat  cum virum\ncertamina , palmis  Ampyciden  o.", 
-            "title": " Article"
+            "location": "/email/", 
+            "text": "zoho.com\n\n\nEmail hosting yang ada pada domain explore-corp.com sekarang berada di zoho.com, email dipindahkan ke zoho.com. Untuk login bisa ke alamat \nini\n, kemudian pilih login (gunakan alamat email dan password yang telah diberikan sebelumnya).\n\n\n\n\nhalaman login zoho\n\n\n\n\nBeranda Zoho\n\n\n    Note:\n    Pilih Email Untuk masuk ke email.\n\n\n\n\n\nhalaman Inbox Zoho mail", 
+            "title": "Email Hosting"
         }, 
         {
-            "location": "/website/user-guide/#voce-superi", 
-            "text": "Pico Achillem nulla thracius durus iam! Mox  me odit  non considerat vatibus\nquid teque letifera quem sorores ut. Fuerunt habet vulnera loqui est, illa\nquoque cvrrvs lacrimabile etiamnum et altera, tempora nulla est iterum fudi duorum . Exsangues  Cytherea\nora .  Conantem  saepe quae;\nspes quidem sanguine discurrunt liquidum virtutem sustineam, verbaque.", 
-            "title": "Voce superi"
-        }, 
-        {
-            "location": "/website/user-guide/#generi-admovit-erit-o-medendi-omnes-pars", 
-            "text": "Non hic amentes moderamine peti induruit auras superbus tantique castra\ncelerique. Litore et, neve mea mediaque, mihi amans rediit. Morte  nodis !   Vitalesque hos gnatae  Cum ille natorum praeceps  Alios et pascua tamen dolos et cruore  Pavore fragmina tremuere lapidumque vidit domus oraque  Repetoque et quove  Collemque iaculi nec inquit diffudit hominesque manibus   Orbe agmina tecta abis gravis vacantem, fer nisi praesagaque apro cumba odere\npotius meae; blandas paciscitur. Hoc illi Orphei, longa erat tamen Venus\ndiduxit; et namque deterruit.", 
-            "title": "Generi admovit erit o medendi omnes pars"
-        }, 
-        {
-            "location": "/website/data-article/", 
-            "text": "Data Article\n\n\n\nMenu \nData Article\n adalah untuk menambahkan semua kategori artikel yang ada, dibedakan berdasarkan jenisnya yaitu sebagai berikut:\n\n\n\n\nEvent \n Domestik\n\n\nEvent \n International\n\n\nEvent \n Wisata Religi\n\n\nEvent \n Haji \n Umroh\n\n\nX-Trip Tour \n X-Trip\n\n\nX-Trip Tour \n Event\n\n\nDocumentation \n Domestik\n\n\nDocumentation \n Internasional\n\n\nDocumentation \n Event\n\n\nPromo Tour \n Domestik\n\n\nPromo Tour \n Internasional\n\n\nPromo Tour \n Event\n\n\n\n\n Article Category\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\n\n\nMenu Navigasi\n\n\n Article\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat \ncum virum\ncertamina\n, palmis \nAmpyciden\n o.", 
-            "title": "Data Article"
-        }, 
-        {
-            "location": "/website/data-article/#article-category", 
-            "text": "In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum   Menu Navigasi", 
-            "title": " Article Category"
-        }, 
-        {
-            "location": "/website/data-article/#article", 
-            "text": "In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum  In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat  cum virum\ncertamina , palmis  Ampyciden  o.", 
-            "title": " Article"
-        }, 
-        {
-            "location": "/website/data-article/", 
-            "text": "Data Article\n\n\n\nMenu \nData Article\n adalah untuk menambahkan semua kategori artikel yang ada, dibedakan berdasarkan jenisnya yaitu sebagai berikut:\n\n\n\n\nEvent \n Domestik\n\n\nEvent \n International\n\n\nEvent \n Wisata Religi\n\n\nEvent \n Haji \n Umroh\n\n\nX-Trip Tour \n X-Trip\n\n\nX-Trip Tour \n Event\n\n\nDocumentation \n Domestik\n\n\nDocumentation \n Internasional\n\n\nDocumentation \n Event\n\n\nPromo Tour \n Domestik\n\n\nPromo Tour \n Internasional\n\n\nPromo Tour \n Event\n\n\n\n\n Article Category\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\n\n\nMenu Navigasi\n\n\n Article\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum\n\n\nIn post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat \ncum virum\ncertamina\n, palmis \nAmpyciden\n o.", 
-            "title": "Data Article"
-        }, 
-        {
-            "location": "/website/data-article/#article-category", 
-            "text": "In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum   Menu Navigasi", 
-            "title": " Article Category"
-        }, 
-        {
-            "location": "/website/data-article/#article", 
-            "text": "In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat [cum virum  In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum\namplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui\ntibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae\npondere; rapta ab fictis faciat  cum virum\ncertamina , palmis  Ampyciden  o.", 
-            "title": " Article"
+            "location": "/email/#zohocom", 
+            "text": "", 
+            "title": " zoho.com"
         }
     ]
 }

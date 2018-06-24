@@ -1,10 +1,12 @@
-In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum
-amplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui
-tibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae
-pondere; rapta ab fictis faciat [cum virum
+<h1><i class="fa fa-flag"></i> Ads Data</h1>
 
-In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum
-amplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui
-tibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae
-pondere; rapta ab fictis faciat [cum virum
-certamina](http://www.fugatisporrigit.io/), palmis *Ampyciden* o.
+Menu `Ads Data` digunakan untuk mengelola data sponsor website, sponsor ini akan tampil pada setiap halaman website.
+
+
+![Ads data](../img/ads-data.jpg)
+
+*Tampilan menu ads data*
+
+![About Us](../img/sponsor.jpg)
+
+*Tampilan Sponsor*

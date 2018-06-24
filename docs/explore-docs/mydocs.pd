@@ -2,199 +2,346 @@
 
 ### Welcome to Explore Docs
 
-Untuk mengunjungi website, sliahkan klik [explore-corp.com](http://www.explore-corp.com).
+Halaman ini adalah halaman utama dokumentasi website, online chat dan email.
+Untuk mengunjungi website, sliahkan klik [explore-corp.com <i class="fa fa-external-link"></i>](http://www.explore-corp.com).
 
-#### Commands
+#### Notes
+* Dokumentasi ini dibuat oleh abdul mun'im ([Kirim Email](mailto:abdmun8@gail.com) atau [Whatsapp](https://wa.me/628996226977?text=Saya%20mau%20bertanya%20tentang%20dokumentasi%20Explore))
+* Atau hubungi [AABC Software](http://www.aabc-software.com)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-#### Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
 
 ## Dashboard
 
-eeeeeee:m markdownum ex adest genetrice carinas quondam Stheneleia crescere cuncta,
-abstulit cauda ecquid? Potest artus umquam, manus cum pressa alveus per cervice
-latices fuit; per redeat quamquam claudit. In passis neque Proteu, qua in
-interea exstructos *exire*. Suumque Psamathen Amorque matri, tibi quid modo
-animos neque, **et**. A vestrae primique.
+<h1><i class="fa fa-dashboard"></i> Dashboard</h1>
+
+Dashboard adalah halaman utama admin, sebagai beranda pada saat login berhasil.
+untuk login admin silahkan klik [disini <i class="fa fa-external-link"></i>](http://explore-corp.com/admin)
+
+![Dashboard](/var/www/html/abcd/abdmun8.github.io/docs/explore-docs/site/website/../img/dashboard.jpg)
+
+*Tampilan Dashboard*
+
+### <i class="fa fa-compass"></i> Toolbar Menu
+
+Toolbar adalah button yang digunakan untuk memberikan aksi pada record.
+semua menu pada website ini menggunakan toolbar yang sama seperti gambar dibawah ini
+
+![Dashboard](/var/www/html/abcd/abdmun8.github.io/docs/explore-docs/site/website/../img/navigasi.jpg)
+
+*Tampilan Toolbar*
+
+####  1. Copy Record <i class="fa fa-copy"></i>
+
+Tombol `Copy Record` Digunakan untuk menduplikasi data ke form input.
+Untuk menggunakan pilih satu record dan klik tombol copy record.
+maka data pada record yang akan dicopy secara otomatis mengisi form input.
+
+![Copy Record](/var/www/html/abcd/abdmun8.github.io/docs/explore-docs/site/website/../img/copy-record.jpg)
+
+*Contoh Copy Record*
+
+####  2. Undo <i class="fa fa-undo"></i>
+
+Tombol `Undo` digunakan untuk membatalkan perintah yang sudah dilakukan tetapi sebelum di save, seperti copy record atau Tambah Data.
+
+####  3. New <i class="fa fa-plus"></i>
+
+Tombol `New` Digunakan untuk menambahkan data baru.
+
+####  4. Trash <i class="fa fa-trash-o"></i>
+
+Tombol `Delete` digunakan untuk menghapus data.
+Untuk menghapus data, pilih salah satu record kemudian klik tombol Delete.
+
+####  5. Save Changes <i class="fa fa-save"></i>
+
+Tombol `Save Changes` digunakan untuk menyimpan perubahan yang telah dibuat, baik itu record baru atau edit record.
+Pada saat membuat data baru tombol save changes akan otomatis aktif, begitu juga pada saat melakukan perubahan data.
+
+		Untuk mengedit data, double click pada data yang akan diedit.
+		Tampilan akan berubah dari grid view ke form view (dibahas dibawah).
+
+#### 6. refresh <i class="fa fa-refresh"></i>
+
+Tombol `Refresh` digunakan untuk memuat ulang data yang ada (reload).
+
+#### 7. Print <i class="fa fa-print"></i>
+
+Tombol `Print` digunakan untuk mencetak dokumen, pada website ini tombol tidak digunakan.
+
+#### 8. First Record <i class="fa fa-angle-double-up"></i>
+
+Tombol `First Record` digunakan untuk navigasi ke record pertama.
+
+#### 8. Previous Record <i class="fa fa-angle-up"></i>
+
+Tombol `Previous Record` digunakan untuk navigasi ke record sebelumnya dari recird yang dipilih.
+
+#### 9. Next Record <i class="fa fa-angle-down"></i>
+
+Tombol `Next Record` digunakan untuk navigasi ke record selanjutnya dari recird yang dipilih.
+
+#### 10. last Record <i class="fa fa-angle-double-down"></i>
+
+Tombol `Last Record` digunakan untuk navigasi ke record Terakhir.
+
+#### 11. Form View <i class="fa fa-pencil"></i>
+
+Tombol `Form View` digunakan merubah tampilan ke tampilan form (pada saat tampilan berada pada tampilan grid).
+
+![Grid View](/var/www/html/abcd/abdmun8.github.io/docs/explore-docs/site/website/../img/grid-view.jpg)
+
+*Contoh tampilan Grid View*
+
+#### 11. Grid View <i class="fa fa-list"></i>
+
+Tombol `Grid View` digunakan merubah tampilan ke tampilan form (pada saat tampilan berada pada tampilan grid).
+
+![Form View](/var/www/html/abcd/abdmun8.github.io/docs/explore-docs/site/website/../img/form-view.jpg)
+
+*Contoh tampilan Form View*
+
+
 
 ## Data Article
 
-In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum
-amplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui
-tibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae
-pondere; rapta ab fictis faciat [cum virum
+<h1><i class="fa fa-file-text"></i> Data Article</h1>
+
+Menu `Data Article` adalah untuk menambahkan semua kategori artikel yang ada, dibedakan berdasarkan jenisnya yaitu sebagai berikut:
+
+- Event > Domestik
+- Event > International
+- Event > Wisata Religi
+- Event > Haji & Umroh
+- X-Trip Tour > X-Trip
+- X-Trip Tour > Event
+- Documentation > Domestik
+- Documentation > Internasional
+- Documentation > Event
+- Promo Tour > Domestik
+- Promo Tour > Internasional
+- Promo Tour > Event
 
 #### <i class="fa fa-tags"></i> Article Category
 
-In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum
-amplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui
-tibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae
-pondere; rapta ab fictis faciat [cum virum
+Tab `Article Category` berfungsi untuk mengelola data artikel kategori yang ada pada website, article category ini tidak boleh dirubah.
+
+![Article Category](/var/www/html/abcd/abdmun8.github.io/docs/explore-docs/site/website/../img/article-category.jpg)
+
+*Tampilan Article category*
 
 #### <i class="fa fa-book"></i> Article
 
-In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum
-amplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui
-tibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae
-pondere; rapta ab fictis faciat [cum virum
+Tab `Article` berfungsi untuk mengelola data artikel, untuk mengelola data pastikan anda memilih salah satu Article Category, kemudian klik tab article.
 
-In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum
-amplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui
-tibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae
-pondere; rapta ab fictis faciat [cum virum
-certamina](http://www.fugatisporrigit.io/), palmis *Ampyciden* o.
+![Article](/var/www/html/abcd/abdmun8.github.io/docs/explore-docs/site/website/../img/article.jpg)
+
+*Tampilan Article*
+
+#### Tampilan Pada Website
+
+Article yang telah dibuat pada menu data article akan ditampilkan berdasarkan tiap category pada menu website, article yang paling baru akan tampil pada halaman utama website, supaya article bisa tampil pastikan status article tersebut sudah **publish**.
+
+		Note:
+		Pada saat membuat article jadwal event pastikan tanggalnya diisi!
+		untuk memasukan link video dari youtube, yang diinput hanya id nya saja,
+		contoh link: https://www.youtube.com/watch?v=2etgttliU_A
+		maka yang diambil hanya 2etgttliU_A (setelah tanda =)
+
+
+![Article Website](/var/www/html/abcd/abdmun8.github.io/docs/explore-docs/site/website/../img/article-web.jpg)
+
+*Tampilan Article pada halaman utama*
+
+![Article Single](/var/www/html/abcd/abdmun8.github.io/docs/explore-docs/site/website/../img/article-single.jpg)
+
+*Tampilan Article pada detail article*
+
+![jadwal Event](/var/www/html/abcd/abdmun8.github.io/docs/explore-docs/site/website/../img/jadwal-event.jpg)
+
+*Tampilan Article pada Jadwal Event*
 
 ## Gallery
 
-In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum
-amplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui
-tibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae
-pondere; rapta ab fictis faciat [cum virum
+<h1><i class="fa fa-image"></i> Gallery</h1>
 
-In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum
-amplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui
-tibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae
-pondere; rapta ab fictis faciat [cum virum
-certamina](http://www.fugatisporrigit.io/), palmis *Ampyciden* o.
+Menu `Gallery` digunakan untuk mengelola gambar yang ada pada menu gallery website, gambar yang ada pada menu gallery website tidak semua berasal dari menu gallery, tetapi ada juga gambar dari article, jika ada gambar yang tidak ada pada menu gallery, berarti gambar tersebut berasal dari article yag sudah publish.
+
+Pada website gambar akan ditampilkan berdasarkan kategori gambar yang dipilihm kategorynya adalah sebagai berikut:
+
+- `Event` Untuk gambar event
+- `X-Trip Tour` Untuk gambar X-Trip Tour
+- `Activity` Untuk gambar Activity (Behind The Scene)
+
+		Note:
+		Pada saat mengupload gambar pastikan ukuran gambar tidak lebih besar dari 2MB!
+		Gambar terbaru akan tampil di halaman awal website
+
+![Galley](/var/www/html/abcd/abdmun8.github.io/docs/explore-docs/site/website/../img/gallery.jpg)
+
+*Tampilan menu galery*
+
+![Galley Website](/var/www/html/abcd/abdmun8.github.io/docs/explore-docs/site/website/../img/gallery-web.jpg)
+
+*Tampilan menu galery website*
+
+![Galley Home](/var/www/html/abcd/abdmun8.github.io/docs/explore-docs/site/website/../img/gallery-home.jpg)
+
+*Tampilan galery pada homepage website*
 
 ## Video
 
-In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum
-amplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui
-tibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae
-pondere; rapta ab fictis faciat [cum virum
+<h1><i class="fa fa-youtube"></i> Video</h1>
 
-In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum
-amplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui
-tibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae
-pondere; rapta ab fictis faciat [cum virum
-certamina](http://www.fugatisporrigit.io/), palmis *Ampyciden* o.
+Menu `Video` digunakan untuk mengelola video yang ada pada menu video website, video yang ada pada menu video website tidak semua berasal dari menu video, tetapi ada juga yang dari article, jika ada video yang tidak ada pada menu video, berarti video tersebut berasal dari article yag sudah publish.
+
+Pada website video akan ditampilkan berdasarkan kategori video yang dipilihm kategorynya adalah sebagai berikut:
+
+- `Event` Untuk video event
+- `X-Trip Tour` Untuk video X-Trip Tour
+- `Activity` Untuk video Activity (Behind The Scene)
+
+		Note:
+		Video terbaru akan tampil di halaman awal website
+		untuk memasukan link video dari youtube, yang diinput hanya id nya saja,
+		contoh link: https://www.youtube.com/watch?v=2etgttliU_A
+		maka yang diambil hanya 2etgttliU_A (setelah tanda =)
+
+![Video](/var/www/html/abcd/abdmun8.github.io/docs/explore-docs/site/website/../img/video.jpg)
+
+*Tampilan menu video*
+
+![Video Website](/var/www/html/abcd/abdmun8.github.io/docs/explore-docs/site/website/../img/video-web.jpg)
+
+*Tampilan menu video website*
+
+![Video Homepage](/var/www/html/abcd/abdmun8.github.io/docs/explore-docs/site/website/../img/video-home.jpg)
+
+*Tampilan video pada homepage website*
 
 ## Page Data
 
-In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum
-amplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui
-tibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae
-pondere; rapta ab fictis faciat [cum virum
+<h1><i class="fa fa-file"></i> Page Data</h1>
 
-In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum
-amplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui
-tibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae
-pondere; rapta ab fictis faciat [cum virum
-certamina](http://www.fugatisporrigit.io/), palmis *Ampyciden* o.
+Menu `Page Data` digunakan untuk mengelola data statis perusahaan seperti visi misi, company profile, background dsb. Data yang ditambahkan pada menu ini akan tampil di halaman `About Us` pada website.
+
+
+![Page data](/var/www/html/abcd/abdmun8.github.io/docs/explore-docs/site/website/../img/page-data.jpg)
+
+*Tampilan menu page data*
+
+![About Us](/var/www/html/abcd/abdmun8.github.io/docs/explore-docs/site/website/../img/about-us.jpg)
+
+*Tampilan menu About Us*
 
 ## Ads Data
 
-In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum
-amplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui
-tibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae
-pondere; rapta ab fictis faciat [cum virum
+<h1><i class="fa fa-flag"></i> Ads Data</h1>
 
-In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum
-amplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui
-tibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae
-pondere; rapta ab fictis faciat [cum virum
-certamina](http://www.fugatisporrigit.io/), palmis *Ampyciden* o.
+Menu `Ads Data` digunakan untuk mengelola data sponsor website, sponsor ini akan tampil pada setiap halaman website.
+
+
+![Ads data](/var/www/html/abcd/abdmun8.github.io/docs/explore-docs/site/website/../img/ads-data.jpg)
+
+*Tampilan menu ads data*
+
+![About Us](/var/www/html/abcd/abdmun8.github.io/docs/explore-docs/site/website/../img/sponsor.jpg)
+
+*Tampilan Sponsor*
 
 ## Comment Data
 
-In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum
-amplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui
-tibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae
-pondere; rapta ab fictis faciat [cum virum
+<h1><i class="fa fa-comment"></i> Comment Data</h1>
 
-In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum
-amplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui
-tibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae
-pondere; rapta ab fictis faciat [cum virum
-certamina](http://www.fugatisporrigit.io/), palmis *Ampyciden* o.
+Menu `Comment Data` digunakan untuk mengelola komentar yang ada pada artikel.
+
+		Note:
+		Untuk menampilkan komentar, pastikan status komentar sudah dirubah menjadi publish!
+		Pada saat ada yang memasukan komentar pada website, maka program secara otomatis akan mengirimkan email pemberitahuan ke alamat markom.explore@gmail.com.
+
+
+![Comment data](/var/www/html/abcd/abdmun8.github.io/docs/explore-docs/site/website/../img/comment-data.jpg)
+
+*Tampilan menu comment data*
+
+![Comment](/var/www/html/abcd/abdmun8.github.io/docs/explore-docs/site/website/../img/comment.jpg)
+
+*Tampilan Komentar pada website*
 
 ## CMS Setting
 
-In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum
-amplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui
-tibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae
-pondere; rapta ab fictis faciat [cum virum
+<h1><i class="fa fa-gears"></i> CMS Setting</h1>
 
-In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum
-amplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui
-tibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae
-pondere; rapta ab fictis faciat [cum virum
-certamina](http://www.fugatisporrigit.io/), palmis *Ampyciden* o.
+Menu `CMS Setting` digunakan untuk mengelola data kontak seperti alamat email, facebook, twitter dsb.
+
+		Note:
+		Supaya data setting tampil pada web pastikan status is active nya menjadi Yes
+
+
+![CMS Setting](/var/www/html/abcd/abdmun8.github.io/docs/explore-docs/site/website/../img/cms-setting.jpg)
+
+*Tampilan menu CMS Setting*
+
+![setting](/var/www/html/abcd/abdmun8.github.io/docs/explore-docs/site/website/../img/setting.jpg)
+
+*Tampilan setting pada website*
 
 ## Buku Tamu
 
-In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum
-amplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui
-tibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae
-pondere; rapta ab fictis faciat [cum virum
+<h1><i class="fa fa-book"></i> Buku Tamu</h1>
 
-In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum
-amplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui
-tibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae
-pondere; rapta ab fictis faciat [cum virum
-certamina](http://www.fugatisporrigit.io/), palmis *Ampyciden* o.
+Menu `Buku Tamu` menampung kritik, saran, atau pesan yang diberikan oleh pengnjung website data buku tamu tidak ditampilkan pada website, tetapi hanya disimpan pada menu Buku Tamu admin, form buku tamu ada pada menu `Contact Us`.
 
-## Data Article
+![Buku Tamu](/var/www/html/abcd/abdmun8.github.io/docs/explore-docs/site/website/../img/buku-tamu.jpg)
 
-In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum
-amplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui
-tibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae
-pondere; rapta ab fictis faciat [cum virum
+*Tampilan menu buku tamu*
 
-#### <i class="fa fa-tags"></i> Article Category
+![Form Buku Tamu](/var/www/html/abcd/abdmun8.github.io/docs/explore-docs/site/website/../img/form-buku-tamu.jpg)
 
-In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum
-amplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui
-tibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae
-pondere; rapta ab fictis faciat [cum virum
+*Tampilan form buku tamu*
 
-#### <i class="fa fa-book"></i> Article
+# Tawk To
 
-In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum
-amplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui
-tibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae
-pondere; rapta ab fictis faciat [cum virum
+###<h1><i class="fa fa-question"></i> Apa Itu Tawk.to</h1>
 
-In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum
-amplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui
-tibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae
-pondere; rapta ab fictis faciat [cum virum
-certamina](http://www.fugatisporrigit.io/), palmis *Ampyciden* o.
+Tawk to adalah aplikasi pihak ketiga yang digunakan untuk keperluan online chat. untuk login bisa ke alamat [tawk.to](https://dashboard.tawk.to/login)
 
-## Data Article
+		Note:
+		Email yang didaftarkan pada tawk.to adalah markom.explore@gmail.com
+		Pastikan anda login ke akun tawk to supaya status pada online chat menjadi online!
+		Pada saat online dan ada pengunjung yang melakukan chatting maka akan diberitahukan kepada agent, agent harus join untuk bisa chat dengan pengunjung tsb.
+		Pada saat offline dan jika ada pengunjung yang melakukan chatting, maka isi chat akan dikirimkan ke email yang terdaftar (saat ini markom.explore@gmail.com)
 
-In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum
-amplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui
-tibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae
-pondere; rapta ab fictis faciat [cum virum
+![Online Chat](/var/www/html/abcd/abdmun8.github.io/docs/explore-docs/site/../img/online.jpg)
 
-#### <i class="fa fa-tags"></i> Article Category
+*Form chat pada website*
 
-In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum
-amplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui
-tibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae
-pondere; rapta ab fictis faciat [cum virum
+![Tawk.to Login](/var/www/html/abcd/abdmun8.github.io/docs/explore-docs/site/../img/tawk-login.jpg)
 
-#### <i class="fa fa-book"></i> Article
+*Halaman Login tawk.to*
 
-In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum
-amplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui
-tibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae
-pondere; rapta ab fictis faciat [cum virum
+![Tawk.to Home](/var/www/html/abcd/abdmun8.github.io/docs/explore-docs/site/../img/tawk-home.jpg)
 
-In post amore obrue Aurora sparsas vallibus supponas exsternata poena antrum
-amplexibus credetis est nos. Deus est, talaribus et consequar metuunt, iniqui
-tibi ritibus Rhoetus excepto ubi: avsis orbe simul videntur mortali! Saxa quae
-pondere; rapta ab fictis faciat [cum virum
-certamina](http://www.fugatisporrigit.io/), palmis *Ampyciden* o.
+*halaman Utama tawk.to*
+
+# Email Hosting
+
+###<h1><i class="fa fa-inbox"></i> zoho.com</h1>
+
+Email hosting yang ada pada domain explore-corp.com sekarang berada di zoho.com, email dipindahkan ke zoho.com. Untuk login bisa ke alamat [ini](https://www.zoho.com/), kemudian pilih login (gunakan alamat email dan password yang telah diberikan sebelumnya).
+
+![Login](/var/www/html/abcd/abdmun8.github.io/docs/explore-docs/site/../img/zoho-login.jpg)
+
+*halaman login zoho*
+
+![Zoho Home](/var/www/html/abcd/abdmun8.github.io/docs/explore-docs/site/../img/zoho-home.jpg)
+
+*Beranda Zoho*
+
+		Note:
+		Pilih Email Untuk masuk ke email.
+
+![Zoho Email](/var/www/html/abcd/abdmun8.github.io/docs/explore-docs/site/../img/email-zoho.jpg)
+
+*halaman Inbox Zoho mail*
 
