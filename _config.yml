@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: abdmun8 | Github Page
+title: My Letter to the Future
 subtitle: My letter to the future
-description: Blog | Docs | Profile
-keywords: abdmun8
-author: Abdul Munim | abdmun8
+description: abdmun8 {{.}} story
+keywords: abdmun8, programming, blog, story
+author: Abdul Munim
 language: id
 timezone: Asia/Jakarta
 
@@ -73,7 +73,9 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: cactus
+theme_config:
+  colorscheme: white
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
