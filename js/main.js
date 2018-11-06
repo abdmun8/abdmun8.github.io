@@ -1,113 +1,234 @@
-/**
- * Sets up Justified Gallery.
- */
-if (!!$.prototype.justifiedGallery) {
-  var options = {
-    rowHeight: 140,
-    margins: 4,
-    lastRow: "justify"
-  };
-  $(".article-gallery").justifiedGallery(options);
-}
+/*
+* Template Name: Sunshine - Responsive vCard Template
+* Author: LMPixels (Linar Miftakhov)
+* Author URL: http://themeforest.net/user/lmpixels
+* Version: 1.0
+*/
 
-$(document).ready(function() {
+(function($) {
+"use strict";
+    
+    // Portfolio subpage filters
+    function portfolio_init() {
+        var portfolio_grid = $('#portfolio_grid'),
+            portfolio_filter = $('#portfolio_filters');
+            
+        if (portfolio_grid) {
 
-  /**
-   * Shows the responsive navigation menu on mobile.
-   */
-  $("#header > #nav > ul > .icon").click(function() {
-    $("#header > #nav > ul").toggleClass("responsive");
-  });
+            portfolio_grid.shuffle({
+                speed: 450,
+                itemSelector: 'figure'
+            });
+
+            $('.site-main-menu').on("click", "a", function (e) {
+                portfolio_grid.shuffle('update');
+            });
 
 
-  /**
-   * Controls the different versions of  the menu in blog post articles 
-   * for Desktop, tablet and mobile.
-   */
-  if ($(".post").length) {
-    var menu = $("#menu");
-    var nav = $("#menu > #nav");
-    var menuIcon = $("#menu-icon, #menu-icon-tablet");
+            portfolio_filter.on("click", ".filter", function (e) {
+                portfolio_grid.shuffle('update');
+                e.preventDefault();
+                $('#portfolio_filters .filter').parent().removeClass('active');
+                $(this).parent().addClass('active');
+                portfolio_grid.shuffle('shuffle', $(this).attr('data-group') );
+            });
 
-    /**
-     * Display the menu on hi-res laptops and desktops.
-     */
-    if ($(document).width() >= 1440) {
-      menu.css("visibility", "visible");
-      menuIcon.addClass("active");
+        }
     }
+    // /Portfolio subpage filters
 
-    /**
-     * Display the menu if the menu icon is clicked.
-     */
-    menuIcon.click(function() {
-      if (menu.css("visibility") === "hidden") {
-        menu.css("visibility", "visible");
-        menuIcon.addClass("active");
-      } else {
-        menu.css("visibility", "hidden");
-        menuIcon.removeClass("active");
-      }
-      return false;
+    // Contact form validator
+    $(function () {
+
+        $('#contact-form').validator();
+
+        $('#contact-form').on('submit', function (e) {
+            if (!e.isDefaultPrevented()) {
+                var url = "contact_form/contact_form.php";
+
+                $.ajax({
+                    type: "POST",
+                    url: url,
+                    data: $(this).serialize(),
+                    success: function (data)
+                    {
+                        var messageAlert = 'alert-' + data.type;
+                        var messageText = data.message;
+
+                        var alertBox = '<div class="alert ' + messageAlert + ' alert-dismissable"><button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>' + messageText + '</div>';
+                        if (messageAlert && messageText) {
+                            $('#contact-form').find('.messages').html(alertBox);
+                            if (messageAlert == "alert-success") {
+                                $('#contact-form')[0].reset();
+                            }
+                        }
+                    }
+                });
+                return false;
+            }
+        });
+    });
+    // /Contact form validator
+
+    // Text Rotator
+    $.fn.extend({ 
+            rotaterator: function(options) {
+
+                var defaults = {
+                    fadeSpeed: 500,
+                    pauseSpeed: 100,
+                    child:null
+                };
+                 
+                var options = $.extend(defaults, options);
+             
+                return this.each(function() {
+                      var o =options;
+                      var obj = $(this);                
+                      var items = $(obj.children(), obj);
+                      items.each(function() {$(this).hide();});
+                      if(!o.child){var next = $(obj).children(':first');
+                      }else{var next = o.child;
+                      }
+                      $(next).fadeIn(o.fadeSpeed, function() {
+                            $(next).delay(o.pauseSpeed).fadeOut(o.fadeSpeed, function() {
+                                var next = $(this).next();
+                                if (next.length === 0){
+                                        next = $(obj).children(':first');
+                                }
+                                $(obj).rotaterator({child : next, fadeSpeed : o.fadeSpeed, pauseSpeed : o.pauseSpeed});
+                            });
+                        });
+                });
+            }
+        });
+    // /Text Rotator
+
+    // Hide Mobile menu
+    function mobileMenuHide() {
+        var windowWidth = $(window).width();
+        if (windowWidth < 1024) {
+            $('#site_header').addClass('mobile-menu-hide');
+        }
+    }
+    // /Hide Mobile menu
+
+    // Animate page loader
+    $(window).on('load', function() {
+        $(".preloader").fadeOut("slow");
     });
 
-    /**
-     * Add a scroll listener to the menu to hide/show the navigation links.
-     */
-    if (menu.length) {
-      $(window).on("scroll", function() {
-        var topDistance = menu.offset().top;
+    $(document).ready(function(){
 
-        // hide only the navigation links on desktop
-        if (!nav.is(":visible") && topDistance < 50) {
-          nav.show();
-        } else if (nav.is(":visible") && topDistance > 100) {
-          nav.hide();
-        }
+        // Initialize Portfolio grid
+        var $portfolio_container = $("#portfolio_grid");
 
-        // on tablet, hide the navigation icon as well and show a "scroll to top
-        // icon" instead
-        if ( ! $( "#menu-icon" ).is(":visible") && topDistance < 50 ) {
-          $("#menu-icon-tablet").show();
-          $("#top-icon-tablet").hide();
-        } else if (! $( "#menu-icon" ).is(":visible") && topDistance > 100) {
-          $("#menu-icon-tablet").hide();
-          $("#top-icon-tablet").show();
-        }
-      });
-    }
+        $portfolio_container.imagesLoaded(function () {
+            setTimeout(function(){
+                portfolio_init(this);
+            }, 500);
+        });
 
-    /**
-     * Show mobile navigation menu after scrolling upwards,
-     * hide it again after scrolling downwards.
-     */
-    if ($( "#footer-post").length) {
-      var lastScrollTop = 0;
-      $(window).on("scroll", function() {
-        var topDistance = $(window).scrollTop();
+        // Portfolio hover effect init
+        $(' #portfolio_grid > figure > a ').each( function() { $(this).hoverdir(); } );
 
-        if (topDistance > lastScrollTop){
-          // downscroll -> show menu
-          $("#footer-post").hide();
-        } else {
-          // upscroll -> hide menu
-          $("#footer-post").show();
-        }
-        lastScrollTop = topDistance;
+        // Mobile menu
+        $('.menu-toggle').click(function() { 
+            $('#site_header').toggleClass('mobile-menu-hide');
+        });
 
-        // close all submenu"s on scroll
-        $("#nav-footer").hide();
-        $("#toc-footer").hide();
-        $("#share-footer").hide();
+        // Testimonials Slider
+        var $testimonials = $(".testimonials.owl-carousel").owlCarousel({
+            nav: true, // Show next/prev buttons.
+            items: 1, // The number of items you want to see on the screen.
+            loop: true, // Infinity loop. Duplicate last and first items to get loop illusion.
+            navText: false,
+            margin: 10,
+        });
 
-        // show a "navigation" icon when close to the top of the page, 
-        // otherwise show a "scroll to the top" icon
-        if (topDistance < 50) {
-          $("#actions-footer > #top").hide();
-        } else if (topDistance > 100) {
-          $("#actions-footer > #top").show();
-        }
-      });
-    }
-  }
-});
+        // Reinit testimonials carousel on subpage change
+        $('.site-main-menu').on("click", "a", function (e) {
+           $testimonials.trigger('refresh.owl.carousel');
+        });
+
+        // Text rotator init
+        $('#rotate').rotaterator({fadeSpeed:800, pauseSpeed:1900});
+ 
+
+         // Blog grid init
+        setTimeout(function(){
+            var $container = $(".blog-masonry");
+            $container.masonry();
+        }, 500);
+
+        $('.site-main-menu').on("click", "a", function (e) {
+            var $container = $(".blog-masonry");
+            $container.masonry();
+        });
+
+        // Lightbox init
+        $('.lightbox').magnificPopup({
+            type: 'image',
+            removalDelay: 300,
+
+            // Class that is added to popup wrapper and background
+            // make it unique to apply your CSS animations just to this exact popup
+            mainClass: 'mfp-fade',
+            image: {
+                // options for image content type
+                titleSrc: 'title'
+            },
+
+            iframe: {
+                markup: '<div class="mfp-iframe-scaler">'+
+                        '<div class="mfp-close"></div>'+
+                        '<iframe class="mfp-iframe" frameborder="0" allowfullscreen></iframe>'+
+                        '<div class="mfp-title mfp-bottom-iframe-title"></div>'+
+                      '</div>', // HTML markup of popup, `mfp-close` will be replaced by the close button
+
+                patterns: {
+                    youtube: {
+                      index: 'youtube.com/', // String that detects type of video (in this case YouTube). Simply via url.indexOf(index).
+
+                      id: 'v=', // String that splits URL in a two parts, second part should be %id%
+                      // Or null - full URL will be returned
+                      // Or a function that should return %id%, for example:
+                      // id: function(url) { return 'parsed id'; }
+
+                      src: '//www.youtube.com/embed/%id%?autoplay=1' // URL that will be set as a source for iframe.
+                    },
+                    vimeo: {
+                      index: 'vimeo.com/',
+                      id: '/',
+                      src: '//player.vimeo.com/video/%id%?autoplay=1'
+                    },
+                    gmaps: {
+                      index: '//maps.google.',
+                      src: '%id%&output=embed'
+                    }
+                },
+
+                srcAction: 'iframe_src', // Templating object key. First part defines CSS selector, second attribute. "iframe_src" means: find "iframe" and set attribute "src".
+            },
+
+            callbacks: {
+                    markupParse: function(template, values, item) {
+                     values.title = item.el.attr('title');
+                    }
+                },
+        });
+
+
+    });
+
+    // Mobile menu hide
+    $(window).on('resize', function() {
+         mobileMenuHide();
+    });
+
+    // Mobile menu hide on main menu item click
+    $('.site-main-menu').on("click", "a", function (e) {
+        mobileMenuHide();
+    });
+
+})(jQuery);
