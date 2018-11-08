@@ -737,7 +737,7 @@ ul.social-links li:last-child a {
 ======================================= */
 .home-page-block-bg .mask {
   position: absolute;
-  background: rgba(55,55,55,0.7);
+  background:  #fff;
   top: 0;
   bottom: 0;
   left: 0;
@@ -753,14 +753,14 @@ ul.social-links li:last-child a {
 }
 
 .home-page-block h2 {
-  color: #fff;
+  color: #222;
   text-align: center;
   font-size: 70px;
   margin: 0;
 }
 
 .home-page-description {
-  color: #fff;
+  color: #222;
   font-size: 21px;
   font-weight: 300;
   font-family: Oswald, Helvetica, sans-serif;
@@ -818,7 +818,7 @@ ul.social-links li:last-child a {
 .home-page-block .info-list li,
 .home-page-block .info-list li span.title,
 .home-page-block .info-list li a {
-  color: #eee;
+  color: #222;
   font-size: 16px;
 }
 
